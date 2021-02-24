@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>210.jpg</filename>
-	<path>C:\Users\derek\Documents\School\4th Year\W2021\ECE 189B\Corrosion_Dataset\validation\images\210.jpg</path>
+	<filename>295.jpg</filename>
+	<path>C:\Users\derek\Documents\School\4th Year\W2021\ECE 189B\Corrosion_Dataset\validation\images\295.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>940</width>
-		<height>627</height>
+		<width>620</width>
+		<height>400</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>234</xmin>
-			<ymin>165</ymin>
-			<xmax>336</xmax>
-			<ymax>418</ymax>
+			<xmin>63</xmin>
+			<ymin>240</ymin>
+			<xmax>200</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>355</xmin>
-			<ymin>319</ymin>
-			<xmax>423</xmax>
-			<ymax>428</ymax>
+			<xmin>287</xmin>
+			<ymin>247</ymin>
+			<xmax>440</xmax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>645</xmin>
-			<ymin>357</ymin>
-			<xmax>896</xmax>
-			<ymax>431</ymax>
+			<xmin>423</xmin>
+			<ymin>194</ymin>
+			<xmax>499</xmax>
+			<ymax>250</ymax>
 		</bndbox>
 	</object>
 </annotation>
