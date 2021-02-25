@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>490.jpg</filename>
+	<path>C:\Users\derek\Desktop\Image_Processing-main\train\augmented\images\490.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>1</ymin>
+			<xmax>145</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>
