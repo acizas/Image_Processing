@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>708.jpg</filename>
+	<path>C:\Users\Andrew\ECE_157B\All_Images\train\augmented\images\708.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>59</ymin>
+			<xmax>107</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
