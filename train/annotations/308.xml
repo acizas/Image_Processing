@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>308.png</filename>
+	<path>C:\Users\derek\Desktop\Image_Processing-main\train\augmented\images\308.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>129</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>42</ymin>
+			<xmax>167</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>
